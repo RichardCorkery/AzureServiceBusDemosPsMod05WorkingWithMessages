@@ -2,6 +2,8 @@
 
 ## Demos of Azure Service Bus: Sending Messages from Pluralsight Class Azure Service Bus in Dept Module 5
 
+## These demos focus more on Sending Messages
+
 ### Demos include:
 - Demo1: Send and Receive String Message
 - Demo2: Send and Receive Serialized Object as a Message
