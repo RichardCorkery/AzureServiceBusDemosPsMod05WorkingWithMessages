@@ -1,4 +1,4 @@
-# azure-service-bus-demos-ps-mod5-working-with-messages
+# AzureServiceBusDemosPsMod05WorkingWithMessages
 
 ## Demos of Azure Service Bus: Sending Messages from Pluralsight Class Azure Service Bus in Dept Module 5
 
